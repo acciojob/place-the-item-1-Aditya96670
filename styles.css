@@ -1,2 +1,59 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+}
+.b1{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.b2{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.b3{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.item{
+	display:flex;
+	flex:wrap;
+	justify-content:space-evenly;
+}
+.i1{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.i2{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.i3{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.i4{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.i5{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+.i6{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+.i7{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
