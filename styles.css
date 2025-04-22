@@ -19,7 +19,7 @@
 }
 .item{
 	display:flex;
-	flex:wrap;
+	flex-wrap:wrap;
 	justify-content:space-evenly;
 }
 .i1{
